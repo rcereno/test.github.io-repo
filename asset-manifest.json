@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rcereno.github.io/rcereno.github.io/static/css/main.613f807e.css",
+    "main.js": "/rcereno.github.io/rcereno.github.io/static/js/main.dca26152.js",
+    "static/js/496.0320d045.chunk.js": "/rcereno.github.io/rcereno.github.io/static/js/496.0320d045.chunk.js",
+    "index.html": "/rcereno.github.io/rcereno.github.io/index.html",
+    "main.613f807e.css.map": "/rcereno.github.io/rcereno.github.io/static/css/main.613f807e.css.map",
+    "main.dca26152.js.map": "/rcereno.github.io/rcereno.github.io/static/js/main.dca26152.js.map",
+    "496.0320d045.chunk.js.map": "/rcereno.github.io/rcereno.github.io/static/js/496.0320d045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.613f807e.css",
+    "static/js/main.dca26152.js"
+  ]
+}
