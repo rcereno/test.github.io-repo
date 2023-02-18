@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rcereno.github.io/static/css/main.613f807e.css",
-    "main.js": "/rcereno.github.io/static/js/main.b17fe103.js",
-    "static/js/496.0320d045.chunk.js": "/rcereno.github.io/static/js/496.0320d045.chunk.js",
-    "index.html": "/rcereno.github.io/index.html",
-    "main.613f807e.css.map": "/rcereno.github.io/static/css/main.613f807e.css.map",
-    "main.b17fe103.js.map": "/rcereno.github.io/static/js/main.b17fe103.js.map",
-    "496.0320d045.chunk.js.map": "/rcereno.github.io/static/js/496.0320d045.chunk.js.map"
+    "main.css": "/rc-website/static/css/main.613f807e.css",
+    "main.js": "/rc-website/static/js/main.dcaa4b64.js",
+    "static/js/496.0320d045.chunk.js": "/rc-website/static/js/496.0320d045.chunk.js",
+    "index.html": "/rc-website/index.html",
+    "main.613f807e.css.map": "/rc-website/static/css/main.613f807e.css.map",
+    "main.dcaa4b64.js.map": "/rc-website/static/js/main.dcaa4b64.js.map",
+    "496.0320d045.chunk.js.map": "/rc-website/static/js/496.0320d045.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.613f807e.css",
-    "static/js/main.b17fe103.js"
+    "static/js/main.dcaa4b64.js"
   ]
 }
